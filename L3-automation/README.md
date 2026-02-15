@@ -3,6 +3,11 @@
 
 # 📂 L3-automation/README.md
 
+###■ 理解したこと
+ポート80（Web）
+ポート5432（DB）
+systemctlによるサービス管理
+
 ```markdown
 # L3: 自動化・設計基礎
 
